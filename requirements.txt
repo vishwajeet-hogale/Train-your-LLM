@@ -1,0 +1,8 @@
+torch
+scikit-learn
+transformers
+pymysql
+pandas
+tqdm
+flask
+pydrive
